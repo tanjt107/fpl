@@ -23,3 +23,6 @@ Fantasy Premier League is a game where you can pick 15 players, each has its own
 This is my squad starting from gameweek 1 2022/23. Good luck to me!
 
 <img src="https://user-images.githubusercontent.com/71891904/182784393-90cd1312-22c8-46b1-b752-b472b94cd0f1.jpeg" height="500">
+
+## See also
+[Mathematical optimization - Wikipedia](https://en.wikipedia.org/wiki/Mathematical_optimization)
